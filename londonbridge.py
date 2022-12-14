@@ -14,5 +14,30 @@ scale = {'C1': 261,
          'B': 493,
          'C2': 523
          }
-          
+
+
+
 winsound.Beep(scale['F'], quarterNote)
+winsound.Beep(scale['G'], eighthNote)
+winsound.Beep(scale['F'], quarterNote)
+winsound.Beep(scale['E'], quarterNote)
+winsound.Beep(scale['D'], quarterNote)
+winsound.Beep(scale['E'], quarterNote)
+winsound.Beep(scale['F'], halfNote)
+winsound.Beep(scale['C1'], quarterNote)
+winsound.Beep(scale['D'], quarterNote)
+winsound.Beep(scale['E'], halfNote)
+winsound.Beep(scale['D'], quarterNote)
+winsound.Beep(scale['E'], quarterNote)
+winsound.Beep(scale['F'], halfNote)
+winsound.Beep(scale['F'], quarterNote)
+winsound.Beep(scale['G'], quarterNote)
+winsound.Beep(scale['F'], quarterNote)
+winsound.Beep(scale['E'], quarterNote)
+winsound.Beep(scale['D'], quarterNote)
+winsound.Beep(scale['E'], quarterNote)
+winsound.Beep(scale['F'], halfNote)
+winsound.Beep(scale['D'], halfNote)
+winsound.Beep(scale['G'], halfNote)
+winsound.Beep(scale['E'], quarterNote)
+winsound.Beep(scale['C1'], halfNote)
